@@ -1,0 +1,17 @@
+{
+  "project_name": "Hacash Community Guardians",
+  "ticker": "HCGD",
+  "token_type": "Fungible Token",
+  "lots": 100,
+  "units_per_lot": 10000,
+  "total_supply": 1000000,
+  "stack_cost_hac": 50,
+  "network": "Hacash",
+  "issuer": "Hacash Community Guardians Initiative",
+  "purpose": "Recognition and community participation token",
+  "distribution_model": "Community-based allocation",
+  "transferable": true,
+  "mintable": false,
+  "burnable": false,
+  "description": "Hacash Community Guardians (HCGD) is a community recognition token designed to acknowledge contributions related to user education, onboarding assistance, and constructive moderation within the Hacash ecosystem."
+}
